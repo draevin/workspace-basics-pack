@@ -1,0 +1,22 @@
+{
+    "name": "workspace-basics-pack",
+    "displayName": "Draevin's Workspace Basics",
+    "description": "Draevin's basic VS Code workspace extensions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bungcip.better-toml",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "redhat.vscode-xml",
+        "redhat.vscode-yaml",
+        "shd101wyy.markdown-preview-enhanced",
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one"
+    ]
+}
